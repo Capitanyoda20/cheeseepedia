@@ -2,9 +2,9 @@
 draft = false
 title = "Lo Barnechea (Cantagallo), Chile"
 startDate = "1994-12-00"
-endDate = ""
+endDate = "2025-08-10"
 pageThumbnailFile = "345y4hrth45h4h.avif"
-contributors = ["CECBowlingGreen", "Pask", "CECR995"]
+contributors = ["CECBowlingGreen", "Pask", "CECR995", "Capitanyoda20"]
 citations = ["https://www.youtube.com/watch?v=m--a-GNlUhk", "https://www.youtube.com/watch?v=M8G8q797HtE", "<a href=\"https://cheeseepedia.org/wiki/File:Inside_Plaza_Oeste%27s_Chuck_E._bot.png\">https://cheeseepedia.org/wiki/File:Inside_Plaza_Oeste%27s_Chuck_E._bot.png</a>"]
 latitudeLongitude = ["-33.4860699", "-70.6077862"]
 tags = ["Locations"]
@@ -15,11 +15,12 @@ categories = ["Chuck E. Cheese's"]
 
 ## History
 
-Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}}). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the {{< wiki-link "CEC 2000's Remodel Program" >}}). At some point during the 2020s, the store received 2.0 art.
+Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}}). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the {{< wiki-link "CEC 2000's Remodel Program" >}}). At some point during the 2020s, the store received 2.0 art, on July 16, it was announced that Cantagallo would close its doors on August 10, 
+The art and animatronics will be saved, however it is known that the animatronics will be moved to another location that would be like the 6 legacy stores in the United States and Canada, but in Chile.
 
 ## Stages
 
-This store opened with a 1-Stage, which also had a turntable. During the 2000s, Helen wore a custom-made cheerleader outfit. During the 2008 remodel, the entire stage was restructured, removing the turntable and wink, replacing Chuck E.'s tuxedo outfit with the avenger outfit and Helen's cheerleader outfit with her regular outfit, replacing all character cosmetics with newer ones, replacing all CRT TVs with flat modern ones, and restructuring the backstage. In early 2024, the cyberstar broke and no longer functioned. As of December 2024, the 1-Stage is still there, where Chuck E. still wears his Avenger outfit with his hat. The animatronics are currently in very poor condition and the show is in the process of being restored using assets from the 1-Stage of the recently relocated {{< wiki-link "Santiago (Plaza Oeste), Chile" >}} location.
+This store opened with a 1-Stage, which also had a turntable. During the 2000s, Helen wore a custom-made cheerleader outfit. During the 2008 remodel, the entire stage was restructured, removing the turntable and wink, replacing Chuck E.'s tuxedo outfit with the avenger outfit and Helen's cheerleader outfit with her regular outfit, replacing all character cosmetics with newer ones, replacing all CRT TVs with flat modern ones, and restructuring the backstage. In early 2024, the cyberstar broke and no longer functioned. As of December 2024, the 1-Stage is still there, where Chuck E. still wears his Avenger outfit with his hat. The animatronics are currently in better condition than before because they were restored, using assets from the 1-Stage of the recently relocated {{< wiki-link "Santiago (Plaza Oeste), Chile" >}} location. When Cantagallo closes, the stage will be moved to an unknown location.
 
 | Stage   | Installed     | Removed      | Condition / Notes                            |
 |---------|---------------|--------------|----------------------------------------------|
