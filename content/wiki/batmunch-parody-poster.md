@@ -9,7 +9,7 @@ citations = ["https://www.youtube.com/watch?v=0y042y5ZBRk", "https://www.showbiz
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 +++
-**BatMunch** was a poster created for Showbiz Pizza and Chuck e cheese probably in 1989 or 1990.
+**BatMunch** was a poster created for Showbiz Pizza and Chuck e cheese in 1990.
 
 ## History
 
