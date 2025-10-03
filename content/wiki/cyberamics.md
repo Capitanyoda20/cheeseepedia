@@ -1,10 +1,10 @@
 +++
 draft = false
 title = "Cyberamics"
-startDate = ""
+startDate = "1979"
 endDate = ""
 pageThumbnailFile = "uDPkM4zqci5VgKVLaENh.avif"
-contributors = ["Agent smith", "BurgersNuggs445", "The 64th Gamer", "BlackMonkeyEater", "Stripes", "Retrocam", "ShowBizMidwest", "CECMentor", "Caydenpedia", "pizzatimePENGUINS"]
+contributors = ["Agent smith", "BurgersNuggs445", "The 64th Gamer", "BlackMonkeyEater", "Stripes", "Retrocam", "ShowBizMidwest", "CECMentor", "Caydenpedia", "pizzatimePENGUINS", "Capitanyoda20"]
 citations = []
 tags = ["Animatronic Shows"]
 categories = ["Pizza Time Theatre"]
@@ -48,4 +48,4 @@ Additional unique characters would be built for the Lounge and Ice Cream Emporiu
 * {{< wiki-link "Helen Henny (Lounge)" >}}
 * {{< wiki-link "Four Little Shavers (Ice Cream Emporium)" >}}
 
-The {{< wiki-link "Wink (Cyberamic)" >}} would later be added to the Cyberamics lineup retroactively from the production of the 3-Stage.
+The {{< wiki-link "Wink" >}} would later be added to the Cyberamics lineup retroactively from the production of the 3-Stage.
